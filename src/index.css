@@ -1,0 +1,4 @@
+/* Tailwindcss样式库 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
